@@ -1,0 +1,45 @@
+Cogs Notes: Tuesday, December 4th
+---------------------------------
+
+- Send two questions to 120@hci.ucsd.edu by Sunday, 12/9
+- Include question, answer, and which page of textbook / lecture
+- Subject: "Final"
+
+## Activity History ##
+
+- By recording the screen, could we bring people back into context when returning to work?
+
+### SenseCam ###
+
+- Microsoft's experimental camera
+- Commercial version: Vicon Revue
+- Regular camera that stores pictures automatically, includes other sensors
+  - Has a heat sensor to take pictures when near a warm body
+  - Accelerometer: Can take photos based on movement, stabilization
+  - Can be replayed like a movie
+  - Steve Hodges, initial sensecam creator
+    - Thought of SenseCom as a "black box"
+    - Compact, low-energy were crucial factors
+    - Patient with nondegenerative memory loss could remember things if she viewed the 
+      SenseCam images two days afterwards
+    - Patients with Alzheimer's also benefitted
+- SenseCam viewing provided for better recall than writing
+
+### Collaborative Filtering ###
+
+- Google and Amazon do this all the time
+
+- Restaurant Guide: First Cognitive Sciences Conference @ UCSD
+  - No good places to eat near campus
+  - Who else likes the same restaurants that I like?
+    - What else do they like?
+- Bellcore MovieRecommender
+  - Participants sent e-mail to videos@bellcore.com
+  - System replied with a list of 500 movies to rate
+  - After rating, system returns similar users results
+  - Performed better than professional critics
+- PageRank
+- Hollan built an engine that also displayed information about what was on the other end of a 
+  link.
+  - That wasn't very valuble
+  - Users cared more about time indicated by popup delay, rather than image relevancy

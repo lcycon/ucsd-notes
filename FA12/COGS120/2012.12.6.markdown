@@ -1,0 +1,61 @@
+Final Exam
+----------
+
+Part I:   Midterm 1
+Part II:  After Midterm 1 
+
+Grading:
+  Assignment 1           - 5%
+  Assignment 2           - 10%
+  Assignment 3           - 20%
+  Quizzes                - 15%
+  Midterm / Final Part I - 20%
+  Final Part II          - 30$
+
+Don't take part I
+
+
+Beyond Being There
+------------------
+
+Video Teleconferencing
+  - Computers and video displays @ Bell Labs
+  - Display walls promote better interaction
+
+Questioning presuppositions
+
+Face-to-Face interaction
+  - Is pretty rich
+  - Audioconferencing kind of sucks
+
+Physical closeness is the best predictor of collaboration
+
+More money is useful
+  - Can make you closer to "being there"
+  - Face to face > video > audio > written
+
+Develop tools that make communication better
+  - Tools to make the best of a bad situation vs. tools that enhance performance
+
+Communication framework
+
+Communications address human needs
+
+
+Important things to take away
+-----------------------------
+
+- Myth of the paperless office
+- PADD
+- Digital Pens
+- Boundary between physical and digital worlds
+- Multitouch interaction techniques
+- Kinect
+- Principasl of contextual design
+  - Master / Apprentice
+- Gestural interaction
+- Activity histories
+- Read/wear edit/wear
+- ChronoViz
+- Activity Trails, Restoring Context Conjecture
+- Visual Memory
