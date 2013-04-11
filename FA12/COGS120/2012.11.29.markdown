@@ -1,0 +1,167 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+<!-- Pretty -->
+Paper Computing
+---------------
+
+Nadir Weibel
+
+## Proto Writing ##
+8500 BC -> 3500 BC
+
+- Tokens evolve to envelopes and writing. People actually manipulated tokens to form words.
+
+## Heiroglyphs and Alphabets ##
+
+- Egyptian Heiroglyphs ( ~ 2700 BC)
+- Semitic Alphabet ( ~ 1850 BC)
+- Phoenician Alphabet ( ~ 1050 BC)
+
+People wrote agreements in stone, and also sent messages for war.
+
+## Early Pens and "Paper" ##
+
+- Egypt develops papyrus in 3500 BC. Papyrus isn't much different from paper.
+
+## Paper ##
+
+- One of the 4 great inventions of China.
+
+Hemp wrapping paper ~ 200 BC
+
+## Paper Making ##
+
+- Cai Lun documents how paper is used
+- Paper to wrap objects around 105 AD. At this time writing was mostly on stones.
+- Writing happens around 300 AD
+
+## Printing ##
+
+- Occurs in Ancient China, around 6th century
+- Woodblock printing
+
+## Europe ##
+
+- Paper starts around 11th - 15th century
+- Gutenburg press 1436 - 1450
+
+## Publishing ##
+
+- Industrial revolution ~ 19th century
+- Rotatory printing press
+
+## Print Tech ##
+
+- Chromolitography (Color printing)
+- Flexography (Relief printing)
+
+## Digital & Personal Printing ##
+
+- 1957: Dye sublimation printing
+- 1964: Dot matrix printing
+- 1969: Laser printing (Xerox)
+- 1976: Inkjet printing
+- 2003: 3D printing
+
+# Documents #
+
+- Digital documents started off as stand-alone, but now they are shared
+
+Ramelli has this idea of a crazy thing that lets you read multiple books from the comfort
+of one chair. This can be thought as the precursor of Vladmir Bush's memex.
+
+## "The office of the future" ##
+
+- Some people think that paper is going to disappear.
+- Businessweek 1975
+
+## Myth of the paperless office ##
+
+- 2 Microsoft researchers want to make the best of both worlds
+
+## Digital Desk ##
+
+- Xerox EuroParc 1992
+
+## Electronic Paper ##
+
+- Xerox Gyricon
+- E-Ink
+- Xlibris
+- Fujitsu E-Paper
+
+## E-Readers ##
+
+- Kindle etc.
+
+
+Electronic paper and e-readers don't let you do some of the things that you can do with normal
+paper. Can't rip out pages, write on, send to a friend.
+
+## Digital Pen & Paper ##
+
+- Anoto
+- This technology existed around 2001. Made it easy to upload forms to computer.
+  - Eliminates middlemen. No one had to type in forms by hand
+
+## Interactive Paper Toolkits ##
+
+- Paper Augmented Digital Documents
+- Paper Toolkit
+- iPaper / iServer
+
+Use pens to wirelessly interact / communicate. 
+
+
+# Applications #
+
+## PaperPoint ##
+
+- Mobile presentation tool
+- Non-linear presentations
+- Paper-based realtime annotations
+- Digital whiteboard
+- Multi-pen support
+  - Brainstorming
+
+## ButterflyNet ##
+
+- Connect digital pen + photos and view combined
+- Developed for field biologists
+- Automatically correlates notes with photos
+- Hotspot linking: can indicate where a photo should appear in paper notes
+- Visual specimen tag: link a physical specimen to a photo, using a barcode / envelope
+
+## PaperProof ##
+
+- Even though documents are created digitally, they are often used physically
+- Physical annotations need to be re-annotated
+- This system mirrors annotations on the digital document
+
+## Livescribe multimodal pen ##
+
+- Implements microphone, speaker, display
+- Open application platform
+
+
+# Pen and Paper Computing @ UCSD #
+
+## ChronoViz ##
+
+- Multimodal Visualziation Tool
+
+## UbiSketch ##
+
+- Ubiquitous sketching for social media
+- There's a lot of text and words on social networks
+- Social networks don't represent the amount of sketching that is actually going on
+- User draws sketch -> Phone -> Server -> FB, TW etc.
+
+## TraumaPen ##
+
+- People tend to ask a lot of repetitive questions during trauma care
+- There's already a nurse scribe in the room taking notes
+- Her notes can be displayed on a large display if she uses a digital pen
+
+## HIPerFace / HIPerPaper ##
+
+- Interface for huge display

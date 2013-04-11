@@ -1,0 +1,96 @@
+Notes 11.27
+-----------
+
+**Assignment**
+
+Will two subjects recall a passage they memorize better than a single subject?
+
+Distributed memory occurs often in real life. It is highly interactive, brains interact more
+highly coupled than brain + computer.
+
+Will do a basic memorization task. Factorial design. Experiment should take around 90 minutes.
+We will need > 3 laptops, and recording video would be a good idea.
+
+***Enactive Cognition***
+
+- We can't attend to everything.
+- Change blindness.
+- How can we recall things that we don't perceive?
+
+***Criticism***
+
+This experiment is contrived, not an ecologically natural occurance. Does not work well with
+enactive cognition theory.
+
+_Due Monday_
+
+**Lecture**
+
+How come situated cognition has nothing to say about problem solving? Kirsh's paper tried to 
+explain how it could.
+
+***Water measuring problem / Nine dots problem***
+
+- Cognitive set
+- People get stuck based on how they frame the problem
+- Better problem solving
+  - What exactly are the constraints?
+  - Did I frame the problem wrong?
+
+People do better in physical situations vs on paper.
+
+Don't think about consciousness, it will fail your career.
+
+***Kirsh's claims***
+
+- Smart seeing is thinking
+- Thinking as interacting
+  - Architects use layovers
+  - Gestures, etc
+- Extended-Distributed cognition
+  - Interaction with external representations is a part of thinking
+  - Making a gear thingy: Create a free body diagram
+    - Once you know how to draw it you can think about it
+    - Even if you don't draw it
+- We think with objects
+  - Interacting with external representation is a special case of thinking with things
+  - Thinking about force by working with force
+
+***Classical view***
+
+- Process in the head
+- Having a thought is similar to having a proposition
+  - Proposition: Subject and predicate
+  - Uses "concepts"
+    - Compositional
+    - What are the meanings of these "concepts", are they context dependent?
+  - What does it mean to grasp a proposition?
+    - DCog: If you can simulate it in your head, then you have understood it to some extent.
+    - Not fully articulated in the classical approach
+- Whatever you can attend to you can thing
+  - Any aspect of a thing is a potential object of thought
+    - Extracting aspects from things is _crucial_
+  - But thinking is post-perceptual
+- Conscious level involves inner vehicles
+
+***Revised view***
+
+- Still internal, but outward vocalization can supplant inner words
+  - Thanks to Wittgenstein: Only one thing is going on
+- Non-conceptual thoughts are possible
+  - Orienting reflexes
+  - "Primal" knowledge
+
+***Post-Classical view***
+
+- Visual routine
+  - Identification of squiggly in polgon
+    - Use of painting inside polygon
+  - We develop them on-the-fly!
+    - This is as amazing as being able to follow instructions
+- Minsky: One of the four fathers of AI
+  - Interested in heuristic reasoning
+  - Their thought: Everything is pattern-recognition. Anything can be solved using perceptrons!
+    - Not really, can't seem to solve palindromes
+    - Can't do step-by-step procedures: it's parallel
+    - Minsky: We use heuristics to think - serial processes
